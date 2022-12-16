@@ -1,4 +1,4 @@
-package com.apress.prospring5.ch3.annotated;
+package com.apress.prospring5.ch3.setterinjection.annotated;
 
 import com.apress.prospring5.ch2.decoupled.MessageProvider;
 import com.apress.prospring5.ch2.decoupled.MessageRenderer;

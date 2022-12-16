@@ -1,4 +1,4 @@
-package com.apress.prospring5.ch3.annotated;
+package com.apress.prospring5.ch3.setterinjection.annotated;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
